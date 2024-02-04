@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Invoices
-    description                           : Simplified creation of invoices.
+    description                           : Simplified creation of invoices and keep the invoices with states.
     fontawesome_icon_name                 : wallet
     
   - title                                 : Manage Clients
