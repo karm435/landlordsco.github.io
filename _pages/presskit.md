@@ -26,7 +26,8 @@ Simplify your billing process and elevate your business efficiency with Invoice 
 <br>
 
 ## Features
-- **Invoice Creation**: Effortlessly create professional invoices.
+- **Invoice Creation**: 
+  - Effortlessly create professional invoices.
 - **Client Management**: Manage and organize client information efficiently.
 - **Line Item Management**: Easily add, edit, and organize line items for accurate invoicing.
 - **Currency Customization**: Choose and customize the currency to align with your business requirements.
