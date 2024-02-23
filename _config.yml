@@ -1,18 +1,18 @@
 #page title
-page_title                                : Invoice Co                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Landlords Co                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 6464482594                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6478403264                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             : https://apps.apple.com/app/id6464482594                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/app/id6478403264                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Invoice Co                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : 0                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Easy manage invoices.
+app_name                                  : Landlords Co                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : 3.99                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Easy manage properties.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,25 +34,13 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Invoices
-    description                           : Simplified creation of invoices and keep the invoices with states.
+  - title                                 : Intuitive Property Listings
+    description                           : Easily create and manage property listings with our user-friendly interface. Input property details, upload high-quality photos, and highlight key features to attract potential tenants.
     fontawesome_icon_name                 : wallet
     
-  - title                                 : Manage Clients
-    description                           : Manage your clients easily.
-    fontawesome_icon_name                 : camera
-
-  - title                                 : Manage your servicess
-    description                           : Create line items for your services to quickly add them to the invoices.
-    fontawesome_icon_name                 : heart
-
-  - title                                 : Choose currency
-    description                           : Choose currency of your choice.
-    fontawesome_icon_name                 : dollar
-
-  - title                                 : Tagging
-    description                           : Tag the invoices for easy ma.
-    fontawesome_icon_name                 : tag
+  - title                                 : Comprehensive Tenant Screening
+    description                           : Screen potential tenants with ease using our integrated tenant screening tools. Access credit reports, rental history, and background checks to make informed decisions and find the right tenants for your properties.
+    fontawesome_icon_name                 : people
 
   - title                                 : iCloud Sync
     description                           : App support iCloud sync and your data is backed up to iCloud (If iCloud is enabled for the app in settings) and will be synced between devices.
@@ -60,20 +48,20 @@ features                                  :
 
 faqs                                      :
 
-  - title                                 : How do I search for a Invoice?
-    description                           : You can use the seach box to search the invoice by title.
+  - title                                 : How do I search for a Property?
+    description                           : Search for the peoperty is not supported yet but will be in coming updates.
     fontawesome_icon_name                 : search
 
   - title                                 : Installed app on a new device and it is not showing my data?
     description                           : Sometime iCloud does not trigger the refresh. Navigate to Settings -> Apple Id Account -> iCloud. After that just come back to the app and you should see the data.
     fontawesome_icon_name                 : users
 
-  - title                                 : Do I loose all my ivoices if I delete the app?
+  - title                                 : Do I loose all my data if I delete the app?
     description                           : Your data is backed up to your own iCloud and will only be deleted if you Turn off the iCloud sync.
     fontawesome_icon_name                 : eraser
 
-  - title                                 : How do I delete a Invoice?
-    description                           : You can delete an Invoice unless it is not sent.
+  - title                                 : How do I delete a property?
+    description                           : Currently cannot, but can delete in future versions.
     fontawesome_icon_name                 : trash
 
   - title                                 : How do I contact for support?

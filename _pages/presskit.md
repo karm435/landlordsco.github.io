@@ -10,39 +10,31 @@ September 18 2022
 # Press Kit
 <br>
 
-Help Invoice Co grow! I’m Karmjit, the developer of this app. I’m the only developer of the app so I really appreciate your help. If you have any questions just message me on [twitter]([http://twitter](https://twitter.com/CodeWithKarma))
+Help Landlords Co grow! I’m Karmjit, the developer of this app. I’m the only developer of the app so I really appreciate your help. If you have any questions just message me on [twitter]([http://twitter](https://twitter.com/CodeWithKarma))
 
 ## Description
-Welcome to Invoice Co, your all-in-one solution for seamless invoice management. 
+Welcome to Landlords Co, your all-in-one solution for efficient property management. Whether you're a seasoned real estate investor or a first-time landlord, our app is designed to simplify the process of listing and managing your properties, making your landlord journey smoother and more rewarding. 
 
-This user-friendly app empowers business owners to effortlessly create professional invoices, efficiently manage client information, organize line items with precision, and customize currency preferences to suit your business needs. With Invoice Co, generating and sending invoices in PDF format has never been more convenient. 
+Landlords Co is your go-to platform for efficient property management, empowering landlords to focus on growing their portfolios while providing exceptional living experiences for tenants. Download the app today and take control of your real estate investments like never before.
 
-Simplify your billing process and elevate your business efficiency with Invoice Co today
-
-
-## Screenshots & Assets
-[Download Press Kit]({{ site.url }}/downloads/presskit.zip)
+<!-- ## Screenshots & Assets
+[Download Press Kit]({{ site.url }}/downloads/presskit.zip) -->
 
 <br>
 
 ## Features
-- **Invoice Creation**: 
-  - Effortlessly create professional invoices.
-- **Client Management**: Manage and organize client information efficiently.
-- **Line Item Management**: Easily add, edit, and organize line items for accurate invoicing.
-- **Currency Customization**: Choose and customize the currency to align with your business requirements.
-- **PDF Invoicing**: Send invoices in a professional PDF format for seamless communication and record-keeping.
-- **User-Friendly Interface**: Enjoy a straightforward and intuitive interface for a hassle-free experience.
-- **Comprehensive Solution**: All-in-one platform to streamline your invoicing process and enhance business efficiency.
+- **Intuitive Property Listings**: 
+  - Easily create and manage property listings with our user-friendly interface. Input property details, upload high-quality photos, and highlight key features to attract potential tenants.
+- **Comprehensive Tenant Screening**: Screen potential tenants with ease using our integrated tenant screening tools. Access credit reports, rental history, and background checks to make informed decisions and find the right tenants for your properties.
 
 <br>
 
 ## Helpful links
-### Invoice Co App category URL
-https://apps.apple.com/app/id6464482594
+### landlords Co App category URL
+https://apps.apple.com/app/id6478403264
 
 ### Find website
-https://invoiceco.karmaacademy.com.au
+https://landlordsco.karmaacademy.com.au
 
 ### Developer Twitter
 https://twitter.com/CodeWithKarma
