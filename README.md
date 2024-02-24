@@ -1,6 +1,6 @@
-# website for Invoice Co app
+# website for Landlords Co app
 
-This repo contains the contents of the Invoice Co app.
+This repo contains the contents of the Landlords Co app.
 
 
 

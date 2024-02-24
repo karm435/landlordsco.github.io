@@ -9,7 +9,6 @@ Welcome to Landlords Co, your all-in-one solution for efficient property managem
 
 Landlords Co is your go-to platform for efficient property management, empowering landlords to focus on growing their portfolios while providing exceptional living experiences for tenants. Download the app today and take control of your real estate investments like never before.
 
-
 <br>
 
 ### `Latest`
